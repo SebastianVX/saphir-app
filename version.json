@@ -1,0 +1,10 @@
+{
+  "version": "1.1.0",
+  "versionCode": 1001000,
+  "minVersionCode": 0,
+  "apkUrl": "https://github.com/SebastianVX/saphir-app/releases/download/v1.1.0/SAPHIR.apk",
+  "apkSizeBytes": 64385970,
+  "sha256": "af1f3d3e79f84434e2ead947c086b800071ce03624bde43f9054cb0297f94334",
+  "releaseNotes": "Primera versión con descarga por QR y avisos de actualización. Mejoras de rendimiento y seguridad.",
+  "publishedAt": "2026-10-07T23:51:45.737Z"
+}
