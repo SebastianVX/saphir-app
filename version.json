@@ -5,6 +5,6 @@
   "apkUrl": "https://github.com/SebastianVX/saphir-app/releases/download/v1.1.1/SAPHIR.apk",
   "apkSizeBytes": 64385966,
   "sha256": "640cb0e45b75877655061b351e4fb23737e7d73211fb96e0a3280ff9e3a4e5fd",
-  "releaseNotes": "Prueba del sistema de actualización obligatoria.",
+  "releaseNotes": "Mejoras de estabilidad y del sistema de actualizaciones.",
   "publishedAt": "2026-10-08T00:05:09.013Z"
 }
