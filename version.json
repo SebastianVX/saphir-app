@@ -1,10 +1,10 @@
 {
-  "version": "1.1.2",
-  "versionCode": 1001002,
-  "minVersionCode": 1001002,
-  "apkUrl": "https://github.com/SebastianVX/saphir-app/releases/download/v1.1.2/SAPHIR.apk",
-  "apkSizeBytes": 64402538,
-  "sha256": "b0330611593d0689ffd1c311b53c0583441a9a4ff00bb6e7d1bbe673b94bdabe",
-  "releaseNotes": "Descanso de 30 segundos entre series con cuenta regresiva. El avatar saluda sin deformar el brazo. Mensajes claros si no se puede crear la cuenta. Correcciones en el menú y la biblioteca de ejercicios.",
-  "publishedAt": "2026-10-15T03:20:16.696Z"
+  "version": "1.1.3",
+  "versionCode": 1001003,
+  "minVersionCode": 1001003,
+  "apkUrl": "https://github.com/SebastianVX/saphir-app/releases/download/v1.1.3/SAPHIR.apk",
+  "apkSizeBytes": 64402542,
+  "sha256": "921443984de4ef871bf31cbd9c2b387a6813d985cfe3beedab7e0298459eb636",
+  "releaseNotes": "Tonos de piel del avatar más fáciles de distinguir. Incluye todas las mejoras de la 1.1.2.",
+  "publishedAt": "2026-10-15T03:39:38.241Z"
 }
